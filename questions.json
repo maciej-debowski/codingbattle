@@ -1,0 +1,330 @@
+[{
+    "title": "Co z poniższych nie jest językiem programowania",
+    "id": "1",
+    "answers": [
+        {
+            "text": "PHP",
+            "correct": false
+        },
+        {
+            "text": "C++",
+            "correct": false
+        },
+        {
+            "text": "Java",
+            "correct": false
+        },
+        {
+            "text": "HTML",
+            "correct": true
+        }
+    ]
+},
+{
+    "title": "Który z tych języków jest językiem skryptowym",
+    "id": "2",
+    "answers": [
+        {
+            "text": "PHP",
+            "correct": false
+        },
+        {
+            "text": "C",
+            "correct": false
+        },
+        {
+            "text": "CSS",
+            "correct": false
+        },
+        {
+            "text": "JavaScript",
+            "correct": true
+        }
+    ]
+},
+{
+    "title": "Które z poniżej wymienionych nie jest protokołem",
+    "id": "3",
+    "answers": [
+        {
+            "text": "HTTP",
+            "correct": false
+        },
+        {
+            "text": "HTTPS",
+            "correct": false
+        },
+        {
+            "text": "FTP",
+            "correct": false
+        },
+        {
+            "text": "XXX",
+            "correct": true
+        }
+    ]
+},
+{
+    "title": "Co to server-side",
+    "id": "4",
+    "answers": [
+        {
+            "text": "Backend",
+            "correct": true
+        },
+        {
+            "text": "FrontEnd",
+            "correct": false
+        },
+        {
+            "text": "FullStack",
+            "correct": false
+        },
+        {
+            "text": "Serwer graficzny silnika CSS",
+            "correct": false
+        }
+    ]
+},
+{
+    "title": "Co w systemie windows wykona komenda `cd ..` wykonana w programie cmd.exe",
+    "id": "5",
+    "answers": [
+        {
+            "text": "Przejdzie do parent-folder folderu w którym obecnie sie znajduje",
+            "correct": true
+        },
+        {
+            "text": "Usunie folder system32",
+            "correct": false
+        },
+        {
+            "text": "Utworzy nowy folder",
+            "correct": false
+        },
+        {
+            "text": "Pokaże zawartość folderu",
+            "correct": false
+        }
+    ]
+},
+{
+    "title": "Który z wymienionych nie jest frameworkiem JavaScript",
+    "id": "6",
+    "answers": [
+        {
+            "text": "Angular",
+            "correct": false
+        },
+        {
+            "text": "Vue",
+            "correct": false
+        },
+        {
+            "text": "Express (node.js)",
+            "correct": false
+        },
+        {
+            "text": ".NET Framework",
+            "correct": true
+        }
+    ]
+},
+{
+    "title": "W którym z poniższych języków programowania w składni jest słowo kluczowe `mov` ",
+    "id": "7",
+    "answers": [
+        {
+            "text": "Assembler",
+            "correct": true
+        },
+        {
+            "text": "Java++",
+            "correct": false
+        },
+        {
+            "text": "PHP",
+            "correct": false
+        },
+        {
+            "text": "JavaScript",
+            "correct": false
+        }
+    ]
+},
+{
+    "title": "Który z wymienionych jest runtime'm JavaScriptu",
+    "id": "8",
+    "answers": [
+        {
+            "text": "Express",
+            "correct": false
+        },
+        {
+            "text": "Node",
+            "correct": true
+        },
+        {
+            "text": "React",
+            "correct": false
+        },
+        {
+            "text": "Java Virtual Machine",
+            "correct": false
+        }
+    ]
+},
+{
+    "title": "Który z poniższych języków programowania jest kompilowany",
+    "id": "9",
+    "answers": [
+        {
+            "text": "C",
+            "correct": true
+        },
+        {
+            "text": "JavaScript",
+            "correct": false
+        },
+        {
+            "text": "PHP",
+            "correct": false
+        },
+        {
+            "text": "Python",
+            "correct": false
+        }
+    ]
+},
+{
+    "title": "Który z poniższych języków jest interpretowany",
+    "id": "10",
+    "answers": [
+        {
+            "text": "Python",
+            "correct": true
+        },
+        {
+            "text": "C++",
+            "correct": false
+        },
+        {
+            "text": "GO",
+            "correct": false
+        },
+        {
+            "text": "Java",
+            "correct": false
+        }
+    ]
+},
+{
+    "title": "Który z tych języków jest najstarszy",
+    "id": "11",
+    "answers": [
+        {
+            "text": "Swift",
+            "correct": false
+        },
+        {
+            "text": "Kotlin",
+            "correct": false
+        },
+        {
+            "text": "Java",
+            "correct": false
+        },
+        {
+            "text": "Assembler",
+            "correct": true
+        }
+    ]
+},
+{
+    "title": "Który z tych języków jest najlepszy",
+    "id": "12",
+    "answers": [
+        {
+            "text": "JavaScript",
+            "correct": false
+        },
+        {
+            "text": "Java",
+            "correct": false
+        },
+        {
+            "text": "Python",
+            "correct": false
+        },
+        {
+            "text": "Obiektowe C",
+            "correct": true
+        }
+    ]
+},
+{
+    "title": "Który z podanych języków jest wykorzystywany w Silniku Unity 3D",
+    "id": "13",
+    "answers": [
+        {
+            "text": "Angular",
+            "correct": false
+        },
+        {
+            "text": "Java",
+            "correct": false
+        },
+        {
+            "text": "Python",
+            "correct": false
+        },
+        {
+            "text": "C#",
+            "correct": true
+        }
+    ]
+},
+{
+    "title": "Co oznacza RGB",
+    "id": "14",
+    "answers": [
+        {
+            "text": "Risk GigaBytes",
+            "correct": false
+        },
+        {
+            "text": "Roaming Gateway B-type",
+            "correct": false
+        },
+        {
+            "text": "Relative Got Band",
+            "correct": false
+        },
+        {
+            "text": "Red Green Blue",
+            "correct": true
+        }
+    ]
+},
+{
+    "title": "Co oznacza CMYK",
+    "id": "15",
+    "answers": [
+        {
+            "text": "Cybersecurity Mixed Yearly Kit",
+            "correct": false
+        },
+        {
+            "text": "Controller Music - Yellow Key",
+            "correct": false
+        },
+        {
+            "text": "Cistern Metro Youtube Key",
+            "correct": false
+        },
+        {
+            "text": "Cyan, Magenta, Yellow, and Key",
+            "correct": true
+        }
+    ]
+}]
